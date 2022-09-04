@@ -2,7 +2,7 @@
 
 Neste projeto foi desenvolvido o estudo de HTML e CSS básicos.
 
-![calculadora](./assets1/printProjeto.png.png)
+![calculadora](./assets1/printProjeto.png)
 
 ### Teste em seu Computador!
 
